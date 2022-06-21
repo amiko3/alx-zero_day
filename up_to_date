@@ -1,1 +1,2 @@
-git pull upstream master
+git remote add upstream https://github.com/<user.name>/<filename>.git
+git pull upstream <branch>
